@@ -1,6 +1,6 @@
 ---
 
-- hosts: odoo
+- hosts: all
   become: yes
   gather_facts: yes
   pre_tasks:
@@ -9,4 +9,5 @@
       tags:
         - always
 
-  roles: []
+  roles:
+    - ridingbytes.ansible-base
