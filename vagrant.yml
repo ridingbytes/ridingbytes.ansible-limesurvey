@@ -10,5 +10,6 @@
         - always
 
   roles:
-    - ridingbytes.ansible-base
-    - ridingbytes.ansible-security
+    - ridingbytes.ansible-base-role
+    - ridingbytes.ansible-security-role
+    - ridingbytes.ansible-postgresql-role

@@ -5,8 +5,11 @@
 #
 # Install via: ansible-galaxy install -r requirements.yml
 
-- src: https://github.com/ridingbytes/ridingbytes.ansible-base.git
+- src: https://github.com/ridingbytes/ridingbytes.ansible-base-role.git
   version: master
 
-- src: https://github.com/ridingbytes/ridingbytes.ansible-security.git
+- src: https://github.com/ridingbytes/ridingbytes.ansible-security-role.git
+  version: master
+
+- src: https://github.com/ridingbytes/ridingbytes.ansible-postgresql-role.git
   version: master

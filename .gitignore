@@ -1,4 +1,5 @@
 .vagrant
-roles/ridingbytes.ansible-base
-roles/ridingbytes.ansible-security
+roles/ridingbytes.ansible-*-role
 roles/HanXHX.firewall
+vagrant.retry
+roles/ANXS.postgresql
