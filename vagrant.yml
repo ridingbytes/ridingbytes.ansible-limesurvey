@@ -11,3 +11,4 @@
 
   roles:
     - ridingbytes.ansible-base
+    - ridingbytes.ansible-security
