@@ -4,3 +4,4 @@ roles/HanXHX.firewall
 vagrant.retry
 roles/ANXS.postgresql
 roles
+customers
