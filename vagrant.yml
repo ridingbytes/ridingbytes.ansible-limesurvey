@@ -13,5 +13,4 @@
     - ridingbytes.ansible-base-role
     - ridingbytes.ansible-security-role
     - ridingbytes.ansible-postfix-role
-    - ridingbytes.ansible-postgresql-role
     - ridingbytes.ansible-limesurvey-role
