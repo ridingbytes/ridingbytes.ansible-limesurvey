@@ -11,6 +11,9 @@
 - src: https://github.com/ridingbytes/ridingbytes.ansible-security-role.git
   version: master
 
+- src: https://github.com/ridingbytes/ridingbytes.ansible-postgresql-role.git
+  version: master
+
 - src: https://github.com/ridingbytes/ridingbytes.ansible-postfix-role.git
   version: master
 
